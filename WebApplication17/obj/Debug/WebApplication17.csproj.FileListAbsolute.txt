@@ -1,0 +1,6 @@
+c:\users\blgbu\documents\BesyoProje\WebApplication17\bin\WebApplication17.dll.config
+c:\users\blgbu\documents\BesyoProje\WebApplication17\bin\WebApplication17.dll
+c:\users\blgbu\documents\BesyoProje\WebApplication17\bin\WebApplication17.pdb
+c:\users\blgbu\documents\BesyoProje\WebApplication17\obj\Debug\WebApplication17.csprojResolveAssemblyReference.cache
+c:\users\blgbu\documents\BesyoProje\WebApplication17\obj\Debug\WebApplication17.dll
+c:\users\blgbu\documents\BesyoProje\WebApplication17\obj\Debug\WebApplication17.pdb
